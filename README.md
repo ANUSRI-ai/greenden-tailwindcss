@@ -59,6 +59,12 @@ Flexbox: Flexible layouts for content alignment
 CSS Grid: Complex grid-based layouts for responsive design  
 
 
+How to use:
+
+        Open the [Link] file using your preferred web browser (e.g., Chrome, Firefox, etc.)
+        
+
+Thank you for visiting my Greenden website
 
 
 
